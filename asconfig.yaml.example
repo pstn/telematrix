@@ -1,7 +1,7 @@
 url: "http://localhost:5000"
 
-as_token: "AS_TOKEN_HERE"
 hs_token: "HS_TOKEN_HERE"
+as_token: "AS_TOKEN_HERE"
 id: "telematrix"
 
 sender_localpart: telegram
